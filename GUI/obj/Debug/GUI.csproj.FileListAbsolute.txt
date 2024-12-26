@@ -1,0 +1,271 @@
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\CefSharp.Core.Runtime.dll
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\CefSharp.Core.Runtime.pdb
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\CefSharp.Core.Runtime.xml
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\chrome_100_percent.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\chrome_200_percent.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\chrome_elf.dll
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\d3dcompiler_47.dll
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\dxcompiler.dll
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\dxil.dll
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\icudtl.dat
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\libcef.dll
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\libEGL.dll
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\libGLESv2.dll
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\resources.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\snapshot_blob.bin
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\v8_context_snapshot.bin
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\vk_swiftshader.dll
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\vk_swiftshader_icd.json
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\vulkan-1.dll
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\af.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\am.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\ar.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\bg.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\bn.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\ca.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\cs.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\da.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\de.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\el.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\en-GB.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\en-US.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\es-419.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\es.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\et.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\fa.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\fi.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\fil.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\fr.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\gu.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\he.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\hi.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\hr.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\hu.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\id.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\it.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\ja.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\kn.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\ko.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\lt.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\lv.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\ml.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\mr.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\ms.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\nb.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\nl.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\pl.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\pt-BR.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\pt-PT.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\ro.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\ru.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\sk.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\sl.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\sr.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\sv.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\sw.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\ta.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\te.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\th.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\tr.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\uk.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\ur.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\vi.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\zh-CN.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\locales\zh-TW.pak
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\GUI.exe.config
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\GUI.exe
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\GUI.pdb
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\BLL.dll
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\CefSharp.Core.dll
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\CefSharp.dll
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\CefSharp.WinForms.dll
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\DAL.dll
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\DTO.dll
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\BLL.pdb
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\DAL.pdb
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\DAL.dll.config
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\DTO.pdb
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\CefSharp.pdb
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\CefSharp.xml
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\CefSharp.Core.pdb
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\CefSharp.Core.xml
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\CefSharp.WinForms.pdb
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\bin\Debug\CefSharp.WinForms.xml
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.FormNhaclich.resources
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.FormThemNhacLich.resources
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.Login.resources
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.LoginStudentAccount.resources
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.SignUp.resources
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.UserControlBlank.resources
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.UserControlDays.resources
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.UserControlDiemRenLuyen.resources
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.UserControlLichHoc.resources
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.UserControlLichHocTrongTuan.resources
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.UserControlLichTheoNgay.resources
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.UserControlLichThi.resources
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.UserControlThiTrongTuan.resources
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.csproj.Up2Date
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.exe
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\GUI.pdb
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\Time.UC_LichHoc.resources
+C:\Users\pdkha\OneDrive\Desktop\TimeWise\GUI\obj\Debug\Time.UC_Ngay.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.exe
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.pdb
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\chrome_100_percent.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\chrome_200_percent.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\chrome_elf.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\d3dcompiler_47.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\dxcompiler.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\dxil.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\icudtl.dat
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\libcef.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\libEGL.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\libGLESv2.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\resources.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\snapshot_blob.bin
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\v8_context_snapshot.bin
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\vk_swiftshader.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\vk_swiftshader_icd.json
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\vulkan-1.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\af.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\am.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\ar.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\bg.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\bn.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\ca.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\cs.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\da.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\de.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\el.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\en-GB.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\en-US.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\es-419.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\es.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\et.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\fa.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\fi.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\fil.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\fr.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\gu.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\he.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\hi.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\hr.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\hu.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\id.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\it.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\ja.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\kn.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\ko.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\lt.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\lv.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\ml.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\mr.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\ms.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\nb.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\nl.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\pl.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\pt-BR.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\pt-PT.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\ro.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\ru.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\sk.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\sl.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\sr.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\sv.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\sw.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\ta.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\te.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\th.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\tr.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\uk.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\ur.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\vi.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\zh-CN.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\locales\zh-TW.pak
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\CefSharp.BrowserSubprocess.exe
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\CefSharp.BrowserSubprocess.pdb
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\CefSharp.Core.Runtime.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\CefSharp.Core.Runtime.pdb
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\CefSharp.Core.Runtime.xml
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\GUI.exe.config
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\GUI.exe
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\GUI.pdb
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\BLL.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\CefSharp.Core.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\CefSharp.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\CefSharp.WinForms.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\DAL.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\DTO.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\BLL.pdb
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\DAL.pdb
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\DAL.dll.config
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\DTO.pdb
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\CefSharp.pdb
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\CefSharp.xml
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\CefSharp.Core.pdb
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\CefSharp.Core.xml
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\CefSharp.WinForms.pdb
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\CefSharp.WinForms.xml
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.FormThemNhacLich.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.Login.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.LoginStudentAccount.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.MainForm.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.SignUp.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\Time.UC_LichHoc.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\Time.UC_Ngay.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.UserControlBlank.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.UserControlDiemRenLuyen.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.UserControlLichHoc.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.UserControlLichHocTrongTuan.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.UserControlLichTheoNgay.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.UserControlLichThi.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.UserControlThiTrongTuan.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.UC_NhacLich.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.UC_SKtrongNgay.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.UC_SuKienNgay.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.LoadForm.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.UC_ThongTinSV.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.FormSuaLichNhac.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.DanhSachLichNhac_ChinhSua.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\Microsoft.Win32.Registry.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\NAudio.Asio.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\NAudio.Core.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\NAudio.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\NAudio.Midi.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\NAudio.Wasapi.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\NAudio.WinForms.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\NAudio.WinMM.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\System.Security.AccessControl.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\System.Security.Principal.Windows.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\Microsoft.Win32.Registry.xml
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\NAudio.xml
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\NAudio.Asio.xml
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\NAudio.Core.xml
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\NAudio.Midi.xml
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\NAudio.Wasapi.xml
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\NAudio.WinForms.xml
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\NAudio.WinMM.xml
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\System.Security.AccessControl.xml
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\bin\Debug\System.Security.Principal.Windows.xml
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.FromAmThanh.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\Interop.WMPLib.dll
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.Uc_LoadForm.resources
+D:\DuAn\Z Dự án Lịch biểu\TimeWise\TimeWise\GUI\obj\Debug\GUI.Account.resources

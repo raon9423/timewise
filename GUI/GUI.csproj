@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\CefSharp.Common.124.3.20\build\CefSharp.Common.props" Condition="Exists('..\packages\CefSharp.Common.124.3.20\build\CefSharp.Common.props')" />
+  <Import Project="..\packages\chromiumembeddedframework.runtime.win-x86.124.3.2\build\chromiumembeddedframework.runtime.win-x86.props" Condition="Exists('..\packages\chromiumembeddedframework.runtime.win-x86.124.3.2\build\chromiumembeddedframework.runtime.win-x86.props')" />
+  <Import Project="..\packages\chromiumembeddedframework.runtime.win-x64.124.3.2\build\chromiumembeddedframework.runtime.win-x64.props" Condition="Exists('..\packages\chromiumembeddedframework.runtime.win-x64.124.3.2\build\chromiumembeddedframework.runtime.win-x64.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B0A11FD0-911D-439E-9756-048306BE28C1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CefSharp, Version=124.3.20.0, Culture=neutral, PublicKeyToken=40c4b6fc221f4138, processorArchitecture=MSIL">
+      <HintPath>..\packages\CefSharp.Common.124.3.20\lib\net462\CefSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="CefSharp.Core, Version=124.3.20.0, Culture=neutral, PublicKeyToken=40c4b6fc221f4138, processorArchitecture=MSIL">
+      <HintPath>..\packages\CefSharp.Common.124.3.20\lib\net462\CefSharp.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="CefSharp.WinForms, Version=124.3.20.0, Culture=neutral, PublicKeyToken=40c4b6fc221f4138, processorArchitecture=MSIL">
+      <HintPath>..\packages\CefSharp.WinForms.124.3.20\lib\net462\CefSharp.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Win32.Registry, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Win32.Registry.4.7.0\lib\net461\Microsoft.Win32.Registry.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio, Version=2.2.1.0, Culture=neutral, PublicKeyToken=e279aa5131008a41, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.2.2.1\lib\net472\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio.Asio, Version=2.2.1.0, Culture=neutral, PublicKeyToken=e279aa5131008a41, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.Asio.2.2.1\lib\netstandard2.0\NAudio.Asio.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=e279aa5131008a41, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.Core.2.2.1\lib\netstandard2.0\NAudio.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio.Midi, Version=2.2.1.0, Culture=neutral, PublicKeyToken=e279aa5131008a41, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.Midi.2.2.1\lib\netstandard2.0\NAudio.Midi.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio.Wasapi, Version=2.2.1.0, Culture=neutral, PublicKeyToken=e279aa5131008a41, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.Wasapi.2.2.1\lib\netstandard2.0\NAudio.Wasapi.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio.WinForms, Version=2.2.1.0, Culture=neutral, PublicKeyToken=e279aa5131008a41, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.WinForms.2.2.1\lib\net472\NAudio.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio.WinMM, Version=2.2.1.0, Culture=neutral, PublicKeyToken=e279aa5131008a41, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.WinMM.2.2.1\lib\netstandard2.0\NAudio.WinMM.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Security.AccessControl, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.AccessControl.4.7.0\lib\net461\System.Security.AccessControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal.Windows, Version=4.1.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Principal.Windows.4.7.0\lib\net461\System.Security.Principal.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Account.Designer.cs">
+      <DependentUpon>Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DanhSachLichNhac_ChinhSua.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DanhSachLichNhac_ChinhSua.Designer.cs">
+      <DependentUpon>DanhSachLichNhac_ChinhSua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSuaLichNhac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSuaLichNhac.Designer.cs">
+      <DependentUpon>FormSuaLichNhac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormThemNhacLich.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormThemNhacLich.Designer.cs">
+      <DependentUpon>FormThemNhacLich.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FromAmThanh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FromAmThanh.Designer.cs">
+      <DependentUpon>FromAmThanh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadForm.Designer.cs">
+      <DependentUpon>LoadForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginStudentAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginStudentAccount.Designer.cs">
+      <DependentUpon>LoginStudentAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_LichHoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_LichHoc.Designer.cs">
+      <DependentUpon>UC_LichHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uc_LoadForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Uc_LoadForm.Designer.cs">
+      <DependentUpon>Uc_LoadForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Ngay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Ngay.Designer.cs">
+      <DependentUpon>UC_Ngay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_NhacLich.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_NhacLich.Designer.cs">
+      <DependentUpon>UC_NhacLich.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_SKtrongNgay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_SKtrongNgay.Designer.cs">
+      <DependentUpon>UC_SKtrongNgay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_ThongTinSV.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_ThongTinSV.Designer.cs">
+      <DependentUpon>UC_ThongTinSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlBlank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlBlank.Designer.cs">
+      <DependentUpon>UserControlBlank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_SuKienNgay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_SuKienNgay.Designer.cs">
+      <DependentUpon>UC_SuKienNgay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlDiemRenLuyen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlDiemRenLuyen.Designer.cs">
+      <DependentUpon>UserControlDiemRenLuyen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlLichHoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlLichHoc.Designer.cs">
+      <DependentUpon>UserControlLichHoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlLichHocTrongTuan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlLichHocTrongTuan.Designer.cs">
+      <DependentUpon>UserControlLichHocTrongTuan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlLichTheoNgay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlLichTheoNgay.Designer.cs">
+      <DependentUpon>UserControlLichTheoNgay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlLichThi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlLichThi.Designer.cs">
+      <DependentUpon>UserControlLichThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlThiTrongTuan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlThiTrongTuan.Designer.cs">
+      <DependentUpon>UserControlThiTrongTuan.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Account.resx">
+      <DependentUpon>Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DanhSachLichNhac_ChinhSua.resx">
+      <DependentUpon>DanhSachLichNhac_ChinhSua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSuaLichNhac.resx">
+      <DependentUpon>FormSuaLichNhac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormThemNhacLich.resx">
+      <DependentUpon>FormThemNhacLich.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FromAmThanh.resx">
+      <DependentUpon>FromAmThanh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadForm.resx">
+      <DependentUpon>LoadForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginStudentAccount.resx">
+      <DependentUpon>LoginStudentAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_LichHoc.resx">
+      <DependentUpon>UC_LichHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uc_LoadForm.resx">
+      <DependentUpon>Uc_LoadForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Ngay.resx">
+      <DependentUpon>UC_Ngay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_NhacLich.resx">
+      <DependentUpon>UC_NhacLich.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_SKtrongNgay.resx">
+      <DependentUpon>UC_SKtrongNgay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_ThongTinSV.resx">
+      <DependentUpon>UC_ThongTinSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlBlank.resx">
+      <DependentUpon>UserControlBlank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_SuKienNgay.resx">
+      <DependentUpon>UC_SuKienNgay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlDiemRenLuyen.resx">
+      <DependentUpon>UserControlDiemRenLuyen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlLichHoc.resx">
+      <DependentUpon>UserControlLichHoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlLichHocTrongTuan.resx">
+      <DependentUpon>UserControlLichHocTrongTuan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlLichTheoNgay.resx">
+      <DependentUpon>UserControlLichTheoNgay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlLichThi.resx">
+      <DependentUpon>UserControlLichThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlThiTrongTuan.resx">
+      <DependentUpon>UserControlThiTrongTuan.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{cabe2cec-4cb9-4c2e-99a3-be2a9b5f0c98}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{fbe6062f-85de-40c9-b75d-20ab1eae5ee7}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{75d38eaa-db28-4d0c-9faf-d1a513172d35}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Setting.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-setting.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-settings-26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-settings-261.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-settings-26 %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\chromiumembeddedframework.runtime.win-x64.124.3.2\build\chromiumembeddedframework.runtime.win-x64.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\chromiumembeddedframework.runtime.win-x64.124.3.2\build\chromiumembeddedframework.runtime.win-x64.props'))" />
+    <Error Condition="!Exists('..\packages\chromiumembeddedframework.runtime.win-x86.124.3.2\build\chromiumembeddedframework.runtime.win-x86.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\chromiumembeddedframework.runtime.win-x86.124.3.2\build\chromiumembeddedframework.runtime.win-x86.props'))" />
+    <Error Condition="!Exists('..\packages\CefSharp.Common.124.3.20\build\CefSharp.Common.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\CefSharp.Common.124.3.20\build\CefSharp.Common.props'))" />
+    <Error Condition="!Exists('..\packages\CefSharp.Common.124.3.20\build\CefSharp.Common.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\CefSharp.Common.124.3.20\build\CefSharp.Common.targets'))" />
+  </Target>
+  <Import Project="..\packages\CefSharp.Common.124.3.20\build\CefSharp.Common.targets" Condition="Exists('..\packages\CefSharp.Common.124.3.20\build\CefSharp.Common.targets')" />
+</Project>
